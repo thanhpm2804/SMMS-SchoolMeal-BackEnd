@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "BhHgd/X5BEI5zxO02E7N1SQUeY6Ms+dOp4kNMI1DqF8=",
+  "Source": "SMMS.WebAPI",
+  "BasePath": "_content/SMMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SMMS.WebAPI\\wwwroot",
+      "Source": "SMMS.WebAPI",
+      "ContentRoot": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.WebAPI\\wwwroot\\",
+      "BasePath": "_content/SMMS.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\student-avatars\\student_397f430f-f418-4158-9061-189af862d40f_20251118114955",
+      "SourceId": "SMMS.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.WebAPI\\wwwroot\\",
+      "BasePath": "_content/SMMS.WebAPI",
+      "RelativePath": "uploads/edu-meal/student-avatars/student_397f430f-f418-4158-9061-189af862d40f_20251118114955",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\edu-meal\\student-avatars\\student_397f430f-f418-4158-9061-189af862d40f_20251118114955"
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|d:\\m\u00F4n h\u1ECDc fpt\\prjcps\\src\\smms.webapi\\controllers\\modules\\manager\\managerpaymentsettingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\manager\\managerpaymentsettingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\manager\\managerparentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\manager\\managerparentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\manager\\managerstaffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\manager\\managerstaffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.infrastructure\\service\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|solutionrelative:src\\smms.infrastructure\\service\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.infrastructure\\service\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|solutionrelative:src\\smms.infrastructure\\service\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.infrastructure\\service\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|solutionrelative:src\\smms.infrastructure\\service\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.infrastructure\\security\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|solutionrelative:src\\smms.infrastructure\\security\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|solutionrelative:src\\smms.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|solutionrelative:src\\smms.infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.persistence\\repositories\\auth\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|solutionrelative:src\\smms.persistence\\repositories\\auth\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.persistence\\repositories\\auth\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|solutionrelative:src\\smms.persistence\\repositories\\auth\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.persistence\\repositories\\auth\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|solutionrelative:src\\smms.persistence\\repositories\\auth\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\login\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\login\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\wardens\\wardenshomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\wardens\\wardenshomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\wardens\\wardensmanageimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\wardens\\wardensmanageimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\wardens\\wardenshealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\wardens\\wardenshealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\wardens\\wardensfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\wardens\\wardensfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\manager\\managerclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\manager\\managerclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\manager\\managerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\manager\\managerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\manager\\managerfinancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\manager\\managerfinancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\controllers\\modules\\wardens\\wardensviewclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\controllers\\modules\\wardens\\wardensviewclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.persistence\\smms.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|solutionrelative:src\\smms.persistence\\smms.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.infrastructure\\smms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{388B3C03-3AFA-4CA9-834E-B0C6FDEADA07}|src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj|solutionrelative:src\\smms.infrastructure\\smms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04F0429C-8269-4ACC-A99F-89B86B910D00}|src\\SMMS.WebAPI\\SMMS.WebAPI.csproj|solutionrelative:src\\smms.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\commands\\managerpaymentsettingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\commands\\managerpaymentsettingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\handlers\\managerfinancehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\handlers\\managerfinancehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\commands\\generatefinancereportcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\commands\\generatefinancereportcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\dtos\\schoolpaymentsettingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\dtos\\schoolpaymentsettingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\handlers\\managerpaymentsettinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\handlers\\managerpaymentsettinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.persistence\\repositories\\manager\\managerpaymentsettingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|solutionrelative:src\\smms.persistence\\repositories\\manager\\managerpaymentsettingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\handlers\\managerparenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\handlers\\managerparenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\dtos\\financesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\dtos\\financesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\queries\\getschoolpaymentsettingsquery .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\queries\\getschoolpaymentsettingsquery .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.persistence\\repositories\\manager\\managerfinancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|solutionrelative:src\\smms.persistence\\repositories\\manager\\managerfinancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\manager\\interfaces\\imanagerpaymentsettingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\manager\\interfaces\\imanagerpaymentsettingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.domain\\entities\\billing\\schoolpaymentsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|solutionrelative:src\\smms.domain\\entities\\billing\\schoolpaymentsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.domain\\entities\\school\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|solutionrelative:src\\smms.domain\\entities\\school\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.persistence\\data\\edumealcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A453E0F3-3F64-4B23-98FF-D82F4D9E8932}|src\\SMMS.Persistence\\SMMS.Persistence.csproj|solutionrelative:src\\smms.persistence\\data\\edumealcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.domain\\entities\\school\\academicyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|solutionrelative:src\\smms.domain\\entities\\school\\academicyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.domain\\entities\\billing\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|solutionrelative:src\\smms.domain\\entities\\billing\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.domain\\entities\\billing\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|solutionrelative:src\\smms.domain\\entities\\billing\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.domain\\entities\\billing\\notificationrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E38B9-4557-490C-B9A3-BC415A31E865}|src\\SMMS.Domain\\SMMS.Domain.csproj|solutionrelative:src\\smms.domain\\entities\\billing\\notificationrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\wardens\\dtos\\uploadstudentimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\wardens\\dtos\\uploadstudentimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\wardens\\handlers\\cloudstoragehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\wardens\\handlers\\cloudstoragehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\smms.application\\features\\wardens\\handlers\\wardenshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F261E-3377-4318-A8D7-E532F10862BC}|src\\SMMS.Application\\SMMS.Application.csproj|solutionrelative:src\\smms.application\\features\\wardens\\handlers\\wardenshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerStaffController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerStaffController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerStaffController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerStaffController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerStaffController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T13:08:31.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Service\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Infrastructure\\Service\\FileStorageService.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Service\\FileStorageService.cs",
+              "RelativeToolTip": "src\\SMMS.Infrastructure\\Service\\FileStorageService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:55:09.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Service\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Infrastructure\\Service\\CurrentUserService.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Service\\CurrentUserService.cs",
+              "RelativeToolTip": "src\\SMMS.Infrastructure\\Service\\CurrentUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:55:05.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Service\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Infrastructure\\Service\\AuthRepository.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Service\\AuthRepository.cs",
+              "RelativeToolTip": "src\\SMMS.Infrastructure\\Service\\AuthRepository.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:54:59.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Security\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Infrastructure\\Security\\RefreshTokenService.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Security\\RefreshTokenService.cs",
+              "RelativeToolTip": "src\\SMMS.Infrastructure\\Security\\RefreshTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:54:57.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Program.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Program.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAWwOIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:07:46.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerParentController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerParentController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerParentController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerParentController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerParentController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:42:26.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerPaymentSettingController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerPaymentSettingController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerPaymentSettingController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerPaymentSettingController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerPaymentSettingController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwE8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:20:26.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "src\\SMMS.Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:54:56.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Infrastructure\\Security\\JwtTokenService.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "src\\SMMS.Infrastructure\\Security\\JwtTokenService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:54:53.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\auth\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Persistence\\Repositories\\auth\\UserProfileRepository.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\auth\\UserProfileRepository.cs",
+              "RelativeToolTip": "src\\SMMS.Persistence\\Repositories\\auth\\UserProfileRepository.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:54:37.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\auth\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Persistence\\Repositories\\auth\\UserRepository.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\auth\\UserRepository.cs",
+              "RelativeToolTip": "src\\SMMS.Persistence\\Repositories\\auth\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:54:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\auth\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Persistence\\Repositories\\auth\\ReportRepository.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\auth\\ReportRepository.cs",
+              "RelativeToolTip": "src\\SMMS.Persistence\\Repositories\\auth\\ReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:54:35.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Login\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Login\\AuthController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Login\\AuthController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Login\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:53:24.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManagerClassController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerClassController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerClassController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerClassController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerClassController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:39:02.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WardensHealthController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHealthController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHealthController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHealthController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHealthController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:38:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WardensFeedbackController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensFeedbackController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensFeedbackController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensFeedbackController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensFeedbackController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:37:44.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WardensHomeController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHomeController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHomeController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHomeController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensHomeController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:38:02.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerHomeController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerHomeController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerHomeController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerHomeController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerHomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:39:44.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WardensManageImageController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensManageImageController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensManageImageController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensManageImageController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensManageImageController.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAIwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:36:02.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerFinanceController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerFinanceController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerFinanceController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerFinanceController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Manager\\ManagerFinanceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:39:42.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WardensViewClassController.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensViewClassController.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensViewClassController.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensViewClassController.cs",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Controllers\\Modules\\Wardens\\WardensViewClassController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:38:35.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SMMS.Infrastructure",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj",
+              "RelativeToolTip": "src\\SMMS.Infrastructure\\SMMS.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T12:35:49.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SMMS.Persistence",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\SMMS.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\SMMS.Persistence\\SMMS.Persistence.csproj",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\SMMS.Persistence.csproj",
+              "RelativeToolTip": "src\\SMMS.Persistence\\SMMS.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T12:34:10.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManagerFinanceHandler.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerFinanceHandler.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerFinanceHandler.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerFinanceHandler.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerFinanceHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:01:50.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManagerPaymentSettingHandler.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerPaymentSettingHandler.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerPaymentSettingHandler.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerPaymentSettingHandler.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerPaymentSettingHandler.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:15:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagerPaymentSettingCommand.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Commands\\ManagerPaymentSettingCommand.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\Commands\\ManagerPaymentSettingCommand.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Commands\\ManagerPaymentSettingCommand.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\Commands\\ManagerPaymentSettingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:13:36.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManagerParentHandler.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerParentHandler.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerParentHandler.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerParentHandler.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\Handlers\\ManagerParentHandler.cs",
+              "ViewState": "AQIAACQCAAAAAAAAAAAQwFkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:11:18.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T14:16:11.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\SMMS.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\SMMS.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T11:08:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManagerPaymentSettingRepository.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\Manager\\ManagerPaymentSettingRepository.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Persistence\\Repositories\\Manager\\ManagerPaymentSettingRepository.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\Manager\\ManagerPaymentSettingRepository.cs",
+              "RelativeToolTip": "src\\SMMS.Persistence\\Repositories\\Manager\\ManagerPaymentSettingRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA4wEEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:09:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenerateFinanceReportCommand.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Commands\\GenerateFinanceReportCommand.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\Commands\\GenerateFinanceReportCommand.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Commands\\GenerateFinanceReportCommand.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\Commands\\GenerateFinanceReportCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:03:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetSchoolPaymentSettingsQuery .cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Queries\\GetSchoolPaymentSettingsQuery .cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\Queries\\GetSchoolPaymentSettingsQuery .cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Queries\\GetSchoolPaymentSettingsQuery .cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\Queries\\GetSchoolPaymentSettingsQuery .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:11:26.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SchoolPaymentSettingDto.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\DTOs\\SchoolPaymentSettingDto.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\DTOs\\SchoolPaymentSettingDto.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\DTOs\\SchoolPaymentSettingDto.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\DTOs\\SchoolPaymentSettingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:12:08.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FinanceSummaryDto.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\DTOs\\FinanceSummaryDto.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\DTOs\\FinanceSummaryDto.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\DTOs\\FinanceSummaryDto.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\DTOs\\FinanceSummaryDto.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:02:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManagerFinanceRepository.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\Manager\\ManagerFinanceRepository.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Persistence\\Repositories\\Manager\\ManagerFinanceRepository.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Repositories\\Manager\\ManagerFinanceRepository.cs",
+              "RelativeToolTip": "src\\SMMS.Persistence\\Repositories\\Manager\\ManagerFinanceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:09:51.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IManagerPaymentSettingRepository.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Interfaces\\IManagerPaymentSettingRepository.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Manager\\Interfaces\\IManagerPaymentSettingRepository.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Manager\\Interfaces\\IManagerPaymentSettingRepository.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Manager\\Interfaces\\IManagerPaymentSettingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:08:57.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "School.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\school\\School.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Domain\\Entities\\school\\School.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\school\\School.cs",
+              "RelativeToolTip": "src\\SMMS.Domain\\Entities\\school\\School.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAxwGQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:45:31.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AcademicYear.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\school\\AcademicYear.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Domain\\Entities\\school\\AcademicYear.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\school\\AcademicYear.cs",
+              "RelativeToolTip": "src\\SMMS.Domain\\Entities\\school\\AcademicYear.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:45:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\Invoice.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Domain\\Entities\\billing\\Invoice.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\Invoice.cs",
+              "RelativeToolTip": "src\\SMMS.Domain\\Entities\\billing\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:43:53.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\Payment.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Domain\\Entities\\billing\\Payment.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\Payment.cs",
+              "RelativeToolTip": "src\\SMMS.Domain\\Entities\\billing\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:42:24.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SchoolPaymentSetting.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\SchoolPaymentSetting.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Domain\\Entities\\billing\\SchoolPaymentSetting.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\SchoolPaymentSetting.cs",
+              "RelativeToolTip": "src\\SMMS.Domain\\Entities\\billing\\SchoolPaymentSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:36:57.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NotificationRecipient.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\NotificationRecipient.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Domain\\Entities\\billing\\NotificationRecipient.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Domain\\Entities\\billing\\NotificationRecipient.cs",
+              "RelativeToolTip": "src\\SMMS.Domain\\Entities\\billing\\NotificationRecipient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:25:26.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EduMealContext.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Data\\EduMealContext.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Persistence\\Data\\EduMealContext.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Persistence\\Data\\EduMealContext.cs",
+              "RelativeToolTip": "src\\SMMS.Persistence\\Data\\EduMealContext.cs",
+              "ViewState": "AQIAALAEAAAAAAAAAAAwwNgEAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:05:14.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UploadStudentImageRequest.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Wardens\\DTOs\\UploadStudentImageRequest.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Wardens\\DTOs\\UploadStudentImageRequest.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Wardens\\DTOs\\UploadStudentImageRequest.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Wardens\\DTOs\\UploadStudentImageRequest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:30:27.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CloudStorageHandler.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Wardens\\Handlers\\CloudStorageHandler.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Wardens\\Handlers\\CloudStorageHandler.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Wardens\\Handlers\\CloudStorageHandler.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Wardens\\Handlers\\CloudStorageHandler.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowIMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:22:26.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WardensHandler.cs",
+              "DocumentMoniker": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Wardens\\Handlers\\WardensHandler.cs",
+              "RelativeDocumentMoniker": "src\\SMMS.Application\\Features\\Wardens\\Handlers\\WardensHandler.cs",
+              "ToolTip": "D:\\M\u00F4n H\u1ECDc FPT\\PRJCPS\\src\\SMMS.Application\\Features\\Wardens\\Handlers\\WardensHandler.cs",
+              "RelativeToolTip": "src\\SMMS.Application\\Features\\Wardens\\Handlers\\WardensHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:37:12.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

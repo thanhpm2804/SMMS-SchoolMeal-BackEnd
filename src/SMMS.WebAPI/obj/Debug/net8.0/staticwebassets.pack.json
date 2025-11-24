@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\student-avatars\\student_397f430f-f418-4158-9061-189af862d40f_20251118114955",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\student-avatars"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SMMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SMMS.WebAPI.props",
+      "PackagePath": "build\\SMMS.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SMMS.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\SMMS.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SMMS.WebAPI.props",
+      "PackagePath": "buildTransitive\\SMMS.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

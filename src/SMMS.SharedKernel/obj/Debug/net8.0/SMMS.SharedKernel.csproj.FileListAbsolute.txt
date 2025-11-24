@@ -1,0 +1,12 @@
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\bin\Debug\net8.0\SMMS.SharedKernel.deps.json
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\bin\Debug\net8.0\SMMS.SharedKernel.dll
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\bin\Debug\net8.0\SMMS.SharedKernel.pdb
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\SMMS.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\SMMS.SharedKernel.AssemblyInfoInputs.cache
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\SMMS.SharedKernel.AssemblyInfo.cs
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\SMMS.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\SMMS.SharedKernel.sourcelink.json
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\SMMS.SharedKernel.dll
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\refint\SMMS.SharedKernel.dll
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\SMMS.SharedKernel.pdb
+D:\Môn Học FPT\PRJCPS\src\SMMS.SharedKernel\obj\Debug\net8.0\ref\SMMS.SharedKernel.dll

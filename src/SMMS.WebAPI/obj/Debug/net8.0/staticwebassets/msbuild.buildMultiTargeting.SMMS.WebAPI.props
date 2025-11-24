@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SMMS.WebAPI.props" />
+</Project>

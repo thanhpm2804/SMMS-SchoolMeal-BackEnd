@@ -1,0 +1,15 @@
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\bin\Debug\net8.0\SMMS.Domain.deps.json
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\bin\Debug\net8.0\SMMS.Domain.runtimeconfig.json
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\bin\Debug\net8.0\SMMS.Domain.dll
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\bin\Debug\net8.0\SMMS.Domain.pdb
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.csproj.AssemblyReference.cache
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.AssemblyInfoInputs.cache
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.AssemblyInfo.cs
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.csproj.CoreCompileInputs.cache
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.sourcelink.json
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.dll
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\refint\SMMS.Domain.dll
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.pdb
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\SMMS.Domain.genruntimeconfig.cache
+D:\Môn Học FPT\PRJCPS\src\SMMS.Domain\obj\Debug\net8.0\ref\SMMS.Domain.dll
