@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Application\\SMMS.Application.csproj": {}
+    "D:\\Môn Học FPT\\Test2\\src\\SMMS.Application\\SMMS.Application.csproj": {}
   },
   "projects": {
-    "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Application\\SMMS.Application.csproj": {
+    "D:\\Môn Học FPT\\Test2\\src\\SMMS.Application\\SMMS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Application\\SMMS.Application.csproj",
+        "projectUniqueName": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Application\\SMMS.Application.csproj",
         "projectName": "SMMS.Application",
-        "projectPath": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Application\\SMMS.Application.csproj",
+        "projectPath": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Application\\SMMS.Application.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Application\\obj\\",
+        "outputPath": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Domain\\SMMS.Domain.csproj": {
-                "projectPath": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Domain\\SMMS.Domain.csproj"
+              "D:\\Môn Học FPT\\Test2\\src\\SMMS.Domain\\SMMS.Domain.csproj": {
+                "projectPath": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Domain\\SMMS.Domain.csproj"
               }
             }
           }
@@ -71,7 +71,11 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[13.0.0, )"
+              "version": "[13.1.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -80,6 +84,10 @@
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "payOS": {
+              "target": "Package",
+              "version": "[2.0.1, )"
             }
           },
           "imports": [
@@ -102,14 +110,14 @@
         }
       }
     },
-    "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Domain\\SMMS.Domain.csproj": {
+    "D:\\Môn Học FPT\\Test2\\src\\SMMS.Domain\\SMMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Domain\\SMMS.Domain.csproj",
+        "projectUniqueName": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Domain\\SMMS.Domain.csproj",
         "projectName": "SMMS.Domain",
-        "projectPath": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Domain\\SMMS.Domain.csproj",
+        "projectPath": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Domain\\SMMS.Domain.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Domain\\obj\\",
+        "outputPath": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

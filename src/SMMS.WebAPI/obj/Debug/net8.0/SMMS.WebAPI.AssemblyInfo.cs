@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMMS.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c358cc95cbb6798bb10d462220934ffba425203")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b784f377caa8ef0e365f764895c7f780bd8a305b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMMS.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMMS.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

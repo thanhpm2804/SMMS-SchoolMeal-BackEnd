@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2+7oSf3IacF+2jzkZX5+OxNU1idJUxMwWiq8IEvy/iYMBK9lF2Am5jRt5xa1xTI0WiXMLPAMP3qPteeVc3r2wg==",
+  "dgSpecHash": "zVul+K/svbJWhF+DjhoRmXBclyJFUwTr3LFhaozhnuYZVsSnVKRbbb6+/qCCCYtH4Pils8RuNVz+GmBRUZfB+A==",
   "success": true,
-  "projectFilePath": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.Domain\\SMMS.Domain.csproj",
+  "projectFilePath": "D:\\Môn Học FPT\\Test2\\src\\SMMS.Domain\\SMMS.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

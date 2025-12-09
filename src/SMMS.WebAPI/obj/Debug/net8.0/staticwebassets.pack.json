@@ -1,8 +1,52 @@
 {
   "Files": [
     {
-      "Id": "D:\\Môn Học FPT\\PRJCPS\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\student-avatars\\student_397f430f-f418-4158-9061-189af862d40f_20251118114955",
-      "PackagePath": "staticwebassets\\uploads\\edu-meal\\student-avatars"
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\school-contracts\\contract_25b611ec-4c63-487b-9c5b-8f9239573195_20251206063434.png",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\school-contracts\\contract_25b611ec-4c63-487b-9c5b-8f9239573195_20251206063434.png"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\school-contracts\\contract_785c8c8a-9aca-4fe2-97d9-2e94280e8ee2_20251206071258.webp",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\school-contracts\\contract_785c8c8a-9aca-4fe2-97d9-2e94280e8ee2_20251206071258.webp"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205134042",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205140833",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141041",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141446",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141749",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141821",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142132",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142427",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143023",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
+    },
+    {
+      "Id": "D:\\Môn Học FPT\\Test2\\src\\SMMS.WebAPI\\wwwroot\\uploads\\edu-meal\\user-avatars\\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143650",
+      "PackagePath": "staticwebassets\\uploads\\edu-meal\\user-avatars"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SMMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",

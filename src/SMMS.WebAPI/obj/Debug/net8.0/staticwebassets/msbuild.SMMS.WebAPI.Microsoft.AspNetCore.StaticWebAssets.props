@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\student-avatars\student_397f430f-f418-4158-9061-189af862d40f_20251118114955))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\school-contracts\contract_25b611ec-4c63-487b-9c5b-8f9239573195_20251206063434.png))">
       <SourceType>Package</SourceType>
       <SourceId>SMMS.WebAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SMMS.WebAPI</BasePath>
-      <RelativePath>uploads/edu-meal/student-avatars/student_397f430f-f418-4158-9061-189af862d40f_20251118114955</RelativePath>
+      <RelativePath>uploads/edu-meal/school-contracts/contract_25b611ec-4c63-487b-9c5b-8f9239573195_20251206063434.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -14,7 +14,183 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\student-avatars\student_397f430f-f418-4158-9061-189af862d40f_20251118114955))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\school-contracts\contract_25b611ec-4c63-487b-9c5b-8f9239573195_20251206063434.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\school-contracts\contract_785c8c8a-9aca-4fe2-97d9-2e94280e8ee2_20251206071258.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/school-contracts/contract_785c8c8a-9aca-4fe2-97d9-2e94280e8ee2_20251206071258.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\school-contracts\contract_785c8c8a-9aca-4fe2-97d9-2e94280e8ee2_20251206071258.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205134042))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205134042</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205134042))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205140833))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205140833</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205140833))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141041))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141041</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141041))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141446))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141446</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141446))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141749))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141749</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141749))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141821))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141821</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205141821))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142132))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142132</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142132))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142427))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142427</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205142427))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143023))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143023</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143023))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143650))">
+      <SourceType>Package</SourceType>
+      <SourceId>SMMS.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SMMS.WebAPI</BasePath>
+      <RelativePath>uploads/edu-meal/user-avatars/user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143650</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edu-meal\user-avatars\user_65edee23-adbe-4218-8a7a-580ebe8a72f6_20251205143650))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

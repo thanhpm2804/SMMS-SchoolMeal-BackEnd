@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SMMS.Application
-build_property.ProjectDir = D:\Môn Học FPT\PRJCPS\src\SMMS.Application\
+build_property.ProjectDir = D:\Môn Học FPT\Test2\src\SMMS.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
